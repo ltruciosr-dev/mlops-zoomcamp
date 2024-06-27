@@ -1,3 +1,5 @@
+# 3.0 MLOps and Mage
+
 ## 3.0.1 ML Pipelines
 
 Sequence of steps to train, evaluate and deploy a model but in this case we will centralize the learning on the __training__ pipelines. The sequence is as follows:
